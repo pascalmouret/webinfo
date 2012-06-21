@@ -1,0 +1,6 @@
+Pretty straight-forward thingy to get a few information about a domain.
+
+Use it like this:
+webinfo <domain>
+
+If you feel real fancy, add a -v in the end and you'll get even more stuff!
